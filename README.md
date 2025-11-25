@@ -126,12 +126,3 @@ pytest -q
 - `frontend/package.json` — frontend dependencies and scripts
 - `ml_training/*` — training scripts and documentation
 
----
-
-## Want me to do any of the following?
-
-- Align `frontend/package.json` to fix the `date-fns` / `react-day-picker` conflict automatically
-- Run `npm install` in the `frontend` folder and capture logs
-- Patch training scripts to use portable relative paths
-
-Tell me which you prefer and I will proceed.
